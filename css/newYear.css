@@ -1,0 +1,52 @@
+body,div,ul,ol,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,p,button,input{margin:0;padding:0}
+ol,ul,li{list-style:none}
+img,button,input{border:none;}
+img{font-size:0}
+body{font-family:"Microsoft YaHei","Segoe UI",sans-serif}
+table{border-collapse:collapse;border-spacing:0}
+input{font-family:"Microsoft YaHei","Segoe UI",sans-serif}
+button{outline:none;font-family:"Microsoft YaHei","Segoe UI",sans-serif}
+a{text-decoration:none}em{font-style:normal;font-weight:normal}
+
+
+.fl { float: left }
+.fr { float: right }
+.clear-fix:after { content: "."; display: block; clear: both; height: 0; visibility: hidden; }
+
+.mRed{color:#e81522;}
+.allBox{background:#f7e8bf;}
+.mainBg img{width:100%;vertical-align:top;}
+.content{position:relative;}
+.dengA,.dengB{ position:absolute;top:0}
+.dengA{left:0}
+.dengB{right:0}
+.w1300{width:1300px;margin:0 auto;}
+.part0{position:relative;min-height:368px;}
+.jz{position:absolute;top:50%;left:50%; -webkit-transform:translate(-50%,-50%); -moz-transform:translate(-50%,-50%); -ms-transform:translate(-50%,-50%); -o-transform:translate(-50%,-50%); transform:translate(-50%,-50%);}
+.jz img{vertical-align:top;}
+.jzText{position:absolute;top:50%;left:50%;-webkit-transform:translate(-50%,-50%); -moz-transform:translate(-50%,-50%); -ms-transform:translate(-50%,-50%); -o-transform:translate(-50%,-50%); transform:translate(-50%,-50%);}
+.jzText h3{color:#e81522;font-size:32px;text-align:center;margin-bottom:20px;}
+.jzText p{color:#554e3b;font-size:20px;width:678px;text-indent:40px;}
+.title{background:url("../images/titleBg.png") no-repeat center top;font-size:48px;color:#554e3b;height: 95px; line-height: 95px;text-align:center;margin:20px 0; position:relative}
+.title p{position:absolute;color:#e81522;font-size:30px;top:-59px;left:50%; -webkit-transform:translateX(-50%); -moz-transform:translateX(-50%); -ms-transform:translateX(-50%); -o-transform:translateX(-50%); transform:translateX(-50%);font-weight:bold;}
+.part1C{width:1294px;height:382px;background:url("../images/part1Bg.png") no-repeat center top;background-size:cover;position:relative}
+.part1T{width:768px;margin:0 auto;position:absolute;top:55%;left:50%; -webkit-transform:translate(-50%,-50%); -moz-transform:translate(-50%,-50%); -ms-transform:translate(-50%,-50%); -o-transform:translate(-50%,-50%); transform:translate(-50%,-50%);}
+.jz img{vertical-align:top;}
+.part1T li{width:236px;float:left; color:#e81522;text-align:center;margin:0 10px;}
+.part1T li h3{font-size:30px}
+.part1T li h3 span{ font-size:72px;}
+.part1T li p{ font-size:20px;font-weight:bold}
+.part1C .topTip{position:absolute;font-size:30px;top:24px;color:#e81522;left:50%; -webkit-transform:translateX(-50%); -moz-transform:translateX(-50%); -ms-transform:translateX(-50%); -o-transform:translateX(-50%); transform:translateX(-50%);}
+.part1C .bottomTip{font-size:20px;color:#fff;position:absolute;bottom:0;left:50%; -webkit-transform:translateX(-50%); -moz-transform:translateX(-50%); -ms-transform:translateX(-50%); -o-transform:translateX(-50%); transform:translateX(-50%);}
+.dlMsg{padding:20px 64px; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box;width:790px;height:191px;margin:48px auto 126px;background:url("../images/dlBg1.png") no-repeat center top;background-size:cover;}
+.dlMsg dt{font-size:30px;color:#e81522;}
+.dlMsg dd{font-size:20px;color:#554e3b;text-indent:40px;margin:10px 0;}
+.part2T{width:1005px;margin:90px auto 0;}
+.part2T li{width:325px;height:328px;float:left; color:#e81522;text-align:center;margin:0 5px;background:url("../images/part2Bg.png") no-repeat;}
+.part2T li h3{font-size:30px;margin-top:75px;}
+.part2T li h3 span{ font-size:72px;}
+.part2T li p{ font-size:18px;width:170px;margin:0 auto;}
+.dlMsg2{padding:20px 64px; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box;width:790px;height:317px;margin:48px auto 126px;background:url("../images/dlBg2.png") no-repeat center top;background-size:cover;}
+.dlMsg2 dt{font-size:30px;color:#e81522;}
+.dlMsg2 dd{font-size:20px;color:#554e3b;text-indent:40px;margin:18px 0;}
+.dlMsg2 dd.mRed{color:#e81522}
