@@ -14,7 +14,7 @@ a{text-decoration:none}em{font-style:normal;font-weight:normal}
 .clear-fix:after { content: "."; display: block; clear: both; height: 0; visibility: hidden; }
 
 .mRed{color:#e81522;}
-.allBox{background:#f7e8bf;}
+.allBox{background:#f7e8bf;min-width:1300px;padding: 0 0 120px;}
 .mainBg img{width:100%;vertical-align:top;}
 .content{position:relative;}
 .dengA,.dengB{ position:absolute;top:0}
@@ -46,7 +46,7 @@ a{text-decoration:none}em{font-style:normal;font-weight:normal}
 .part2T li h3{font-size:30px;margin-top:75px;}
 .part2T li h3 span{ font-size:72px;}
 .part2T li p{ font-size:18px;width:170px;margin:0 auto;}
-.dlMsg2{padding:20px 64px; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box;width:790px;height:317px;margin:48px auto 126px;background:url("../images/dlBg2.png") no-repeat center top;background-size:cover;}
+.dlMsg2{padding:20px 64px; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box;width:790px;height:317px;margin:48px auto 0;background:url("../images/dlBg2.png") no-repeat center top;background-size:cover;}
 .dlMsg2 dt{font-size:30px;color:#e81522;}
 .dlMsg2 dd{font-size:20px;color:#554e3b;text-indent:40px;margin:18px 0;}
 .dlMsg2 dd.mRed{color:#e81522}
